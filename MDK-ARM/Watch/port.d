@@ -1,0 +1,12 @@
+watch\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/port.c
+watch\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+watch\port.o: F:\mcu\stm32\keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+watch\port.o: F:\mcu\stm32\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+watch\port.o: ../Core/Inc/FreeRTOSConfig.h
+watch\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+watch\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+watch\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+watch\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+watch\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+watch\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+watch\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
